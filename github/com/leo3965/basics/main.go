@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	lectures.Agenda2()
+	lectures.Agenda3()
 }

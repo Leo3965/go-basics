@@ -26,7 +26,7 @@ const (
 )
 
 // lowercase variables or methods are private and uppercase are public
-// name of variables should match their uses, a cpunt should have a single letter, 'cause it will be used fast and only
+// name of variables should match their uses, a count should have a single letter, 'cause it will be used fast and only
 // at that block
 // however if a variable is going to be used a lot it should have a meaningful name
 
