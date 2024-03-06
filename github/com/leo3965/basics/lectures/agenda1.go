@@ -22,7 +22,7 @@ var (
 )
 
 const (
-	counter int = 0
+	counterr int = 0
 )
 
 // lowercase variables or methods are private and uppercase are public
